@@ -10,4 +10,4 @@ Join the moon mission now !
 
 - Website: https://kibblemoon.io
 
-50% token burnt to dead address ([PROOF](https://bscscan.com/tx/))
+40% token burnt to dead address ([PROOF](https://bscscan.com/tx/))
